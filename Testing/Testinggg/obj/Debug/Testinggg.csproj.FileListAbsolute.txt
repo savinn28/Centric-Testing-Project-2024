@@ -1,0 +1,98 @@
+C:\Facultate\Testare\Testinggg\Testinggg\obj\Debug\Testinggg.csproj.AssemblyReference.cache
+C:\Facultate\Testare\Testinggg\Testinggg\obj\Debug\Testinggg.csproj.CoreCompileInputs.cache
+C:\Facultate\Testare\Testinggg\Testinggg\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Facultate\Testare\Testinggg\Testinggg\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Facultate\Testare\Testinggg\Testinggg\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Facultate\Testare\Testinggg\Testinggg\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Facultate\Testare\Testinggg\Testinggg\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Facultate\Testare\Testinggg\Testinggg\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Facultate\Testare\Testinggg\Testinggg\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Facultate\Testare\Testinggg\Testinggg\bin\Debug\Testinggg.dll
+C:\Facultate\Testare\Testinggg\Testinggg\bin\Debug\Testinggg.pdb
+C:\Facultate\Testare\Testinggg\Testinggg\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Facultate\Testare\Testinggg\Testinggg\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Facultate\Testare\Testinggg\Testinggg\bin\Debug\WebDriver.dll
+C:\Facultate\Testare\Testinggg\Testinggg\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Facultate\Testare\Testinggg\Testinggg\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Facultate\Testare\Testinggg\Testinggg\obj\Debug\Testinggg.csproj.CopyComplete
+C:\Facultate\Testare\Testinggg\Testinggg\obj\Debug\Testinggg.dll
+C:\Facultate\Testare\Testinggg\Testinggg\obj\Debug\Testinggg.pdb
+C:\Facultate\Testare\Testinggg\Testinggg\bin\Debug\WebDriver.Support.dll
+C:\Facultate\proieeeeeeeeeeeeeeeeeect\Centric Project Echipa Nr. 1\Centric Project Echipa Nr. 1\Testinggg\Testinggg\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Facultate\proieeeeeeeeeeeeeeeeeect\Centric Project Echipa Nr. 1\Centric Project Echipa Nr. 1\Testinggg\Testinggg\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Facultate\proieeeeeeeeeeeeeeeeeect\Centric Project Echipa Nr. 1\Centric Project Echipa Nr. 1\Testinggg\Testinggg\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Facultate\proieeeeeeeeeeeeeeeeeect\Centric Project Echipa Nr. 1\Centric Project Echipa Nr. 1\Testinggg\Testinggg\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Facultate\proieeeeeeeeeeeeeeeeeect\Centric Project Echipa Nr. 1\Centric Project Echipa Nr. 1\Testinggg\Testinggg\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Facultate\proieeeeeeeeeeeeeeeeeect\Centric Project Echipa Nr. 1\Centric Project Echipa Nr. 1\Testinggg\Testinggg\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Facultate\proieeeeeeeeeeeeeeeeeect\Centric Project Echipa Nr. 1\Centric Project Echipa Nr. 1\Testinggg\Testinggg\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Facultate\proieeeeeeeeeeeeeeeeeect\Centric Project Echipa Nr. 1\Centric Project Echipa Nr. 1\Testinggg\Testinggg\bin\Debug\Testinggg.dll
+C:\Facultate\proieeeeeeeeeeeeeeeeeect\Centric Project Echipa Nr. 1\Centric Project Echipa Nr. 1\Testinggg\Testinggg\bin\Debug\Testinggg.pdb
+C:\Facultate\proieeeeeeeeeeeeeeeeeect\Centric Project Echipa Nr. 1\Centric Project Echipa Nr. 1\Testinggg\Testinggg\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Facultate\proieeeeeeeeeeeeeeeeeect\Centric Project Echipa Nr. 1\Centric Project Echipa Nr. 1\Testinggg\Testinggg\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Facultate\proieeeeeeeeeeeeeeeeeect\Centric Project Echipa Nr. 1\Centric Project Echipa Nr. 1\Testinggg\Testinggg\bin\Debug\WebDriver.dll
+C:\Facultate\proieeeeeeeeeeeeeeeeeect\Centric Project Echipa Nr. 1\Centric Project Echipa Nr. 1\Testinggg\Testinggg\bin\Debug\WebDriver.Support.dll
+C:\Facultate\proieeeeeeeeeeeeeeeeeect\Centric Project Echipa Nr. 1\Centric Project Echipa Nr. 1\Testinggg\Testinggg\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Facultate\proieeeeeeeeeeeeeeeeeect\Centric Project Echipa Nr. 1\Centric Project Echipa Nr. 1\Testinggg\Testinggg\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Facultate\proieeeeeeeeeeeeeeeeeect\Centric Project Echipa Nr. 1\Centric Project Echipa Nr. 1\Testinggg\Testinggg\obj\Debug\Testinggg.csproj.AssemblyReference.cache
+C:\Facultate\proieeeeeeeeeeeeeeeeeect\Centric Project Echipa Nr. 1\Centric Project Echipa Nr. 1\Testinggg\Testinggg\obj\Debug\Testinggg.csproj.CoreCompileInputs.cache
+C:\Facultate\proieeeeeeeeeeeeeeeeeect\Centric Project Echipa Nr. 1\Centric Project Echipa Nr. 1\Testinggg\Testinggg\obj\Debug\Testinggg.csproj.CopyComplete
+C:\Facultate\proieeeeeeeeeeeeeeeeeect\Centric Project Echipa Nr. 1\Centric Project Echipa Nr. 1\Testinggg\Testinggg\obj\Debug\Testinggg.dll
+C:\Facultate\proieeeeeeeeeeeeeeeeeect\Centric Project Echipa Nr. 1\Centric Project Echipa Nr. 1\Testinggg\Testinggg\obj\Debug\Testinggg.pdb
+C:\Users\andra\Downloads\Centric Project Echipa Nr. 1 (2)\Centric Project Echipa Nr. 1\Testinggg\Testinggg\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\andra\Downloads\Centric Project Echipa Nr. 1 (2)\Centric Project Echipa Nr. 1\Testinggg\Testinggg\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\andra\Downloads\Centric Project Echipa Nr. 1 (2)\Centric Project Echipa Nr. 1\Testinggg\Testinggg\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\andra\Downloads\Centric Project Echipa Nr. 1 (2)\Centric Project Echipa Nr. 1\Testinggg\Testinggg\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\andra\Downloads\Centric Project Echipa Nr. 1 (2)\Centric Project Echipa Nr. 1\Testinggg\Testinggg\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\andra\Downloads\Centric Project Echipa Nr. 1 (2)\Centric Project Echipa Nr. 1\Testinggg\Testinggg\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\andra\Downloads\Centric Project Echipa Nr. 1 (2)\Centric Project Echipa Nr. 1\Testinggg\Testinggg\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\andra\Downloads\Centric Project Echipa Nr. 1 (2)\Centric Project Echipa Nr. 1\Testinggg\Testinggg\bin\Debug\Testinggg.dll
+C:\Users\andra\Downloads\Centric Project Echipa Nr. 1 (2)\Centric Project Echipa Nr. 1\Testinggg\Testinggg\bin\Debug\Testinggg.pdb
+C:\Users\andra\Downloads\Centric Project Echipa Nr. 1 (2)\Centric Project Echipa Nr. 1\Testinggg\Testinggg\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\andra\Downloads\Centric Project Echipa Nr. 1 (2)\Centric Project Echipa Nr. 1\Testinggg\Testinggg\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\andra\Downloads\Centric Project Echipa Nr. 1 (2)\Centric Project Echipa Nr. 1\Testinggg\Testinggg\bin\Debug\WebDriver.dll
+C:\Users\andra\Downloads\Centric Project Echipa Nr. 1 (2)\Centric Project Echipa Nr. 1\Testinggg\Testinggg\bin\Debug\WebDriver.Support.dll
+C:\Users\andra\Downloads\Centric Project Echipa Nr. 1 (2)\Centric Project Echipa Nr. 1\Testinggg\Testinggg\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\andra\Downloads\Centric Project Echipa Nr. 1 (2)\Centric Project Echipa Nr. 1\Testinggg\Testinggg\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\andra\Downloads\Centric Project Echipa Nr. 1 (2)\Centric Project Echipa Nr. 1\Testinggg\Testinggg\obj\Debug\Testinggg.csproj.AssemblyReference.cache
+C:\Users\andra\Downloads\Centric Project Echipa Nr. 1 (2)\Centric Project Echipa Nr. 1\Testinggg\Testinggg\obj\Debug\Testinggg.csproj.CoreCompileInputs.cache
+C:\Users\andra\Downloads\Centric Project Echipa Nr. 1 (2)\Centric Project Echipa Nr. 1\Testinggg\Testinggg\obj\Debug\Testinggg.csproj.CopyComplete
+C:\Users\andra\Downloads\Centric Project Echipa Nr. 1 (2)\Centric Project Echipa Nr. 1\Testinggg\Testinggg\obj\Debug\Testinggg.dll
+C:\Users\andra\Downloads\Centric Project Echipa Nr. 1 (2)\Centric Project Echipa Nr. 1\Testinggg\Testinggg\obj\Debug\Testinggg.pdb
+C:\Users\Victus\Desktop\Centric Project Echipa Nr. 1\Testinggg\Testinggg\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Victus\Desktop\Centric Project Echipa Nr. 1\Testinggg\Testinggg\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Victus\Desktop\Centric Project Echipa Nr. 1\Testinggg\Testinggg\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Victus\Desktop\Centric Project Echipa Nr. 1\Testinggg\Testinggg\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Victus\Desktop\Centric Project Echipa Nr. 1\Testinggg\Testinggg\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\Victus\Desktop\Centric Project Echipa Nr. 1\Testinggg\Testinggg\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\Victus\Desktop\Centric Project Echipa Nr. 1\Testinggg\Testinggg\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\Victus\Desktop\Centric Project Echipa Nr. 1\Testinggg\Testinggg\bin\Debug\Testinggg.pdb
+C:\Users\Victus\Desktop\Centric Project Echipa Nr. 1\Testinggg\Testinggg\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Victus\Desktop\Centric Project Echipa Nr. 1\Testinggg\Testinggg\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Victus\Desktop\Centric Project Echipa Nr. 1\Testinggg\Testinggg\bin\Debug\WebDriver.dll
+C:\Users\Victus\Desktop\Centric Project Echipa Nr. 1\Testinggg\Testinggg\bin\Debug\WebDriver.Support.dll
+C:\Users\Victus\Desktop\Centric Project Echipa Nr. 1\Testinggg\Testinggg\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Victus\Desktop\Centric Project Echipa Nr. 1\Testinggg\Testinggg\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Victus\Desktop\Centric Project Echipa Nr. 1\Testinggg\Testinggg\obj\Debug\Testinggg.csproj.AssemblyReference.cache
+C:\Users\Victus\Desktop\Centric Project Echipa Nr. 1\Testinggg\Testinggg\obj\Debug\Testinggg.csproj.CoreCompileInputs.cache
+C:\Users\Victus\Desktop\Centric Project Echipa Nr. 1\Testinggg\Testinggg\obj\Debug\Testinggg.csproj.Up2Date
+C:\Users\Victus\Desktop\Centric Project Echipa Nr. 1\Testinggg\Testinggg\obj\Debug\Testinggg.dll
+C:\Users\Victus\Desktop\Centric Project Echipa Nr. 1\Testinggg\Testinggg\obj\Debug\Testinggg.pdb
+D:\Date hard\Facultate AC\An 3\An 3 Sem2\TPS\PROIECT\Centric Project\Centric Project Echipa Nr. 1\Testinggg\Testinggg\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Date hard\Facultate AC\An 3\An 3 Sem2\TPS\PROIECT\Centric Project\Centric Project Echipa Nr. 1\Testinggg\Testinggg\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Date hard\Facultate AC\An 3\An 3 Sem2\TPS\PROIECT\Centric Project\Centric Project Echipa Nr. 1\Testinggg\Testinggg\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Date hard\Facultate AC\An 3\An 3 Sem2\TPS\PROIECT\Centric Project\Centric Project Echipa Nr. 1\Testinggg\Testinggg\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Date hard\Facultate AC\An 3\An 3 Sem2\TPS\PROIECT\Centric Project\Centric Project Echipa Nr. 1\Testinggg\Testinggg\bin\Debug\selenium-manager\linux\selenium-manager
+D:\Date hard\Facultate AC\An 3\An 3 Sem2\TPS\PROIECT\Centric Project\Centric Project Echipa Nr. 1\Testinggg\Testinggg\bin\Debug\selenium-manager\macos\selenium-manager
+D:\Date hard\Facultate AC\An 3\An 3 Sem2\TPS\PROIECT\Centric Project\Centric Project Echipa Nr. 1\Testinggg\Testinggg\bin\Debug\selenium-manager\windows\selenium-manager.exe
+D:\Date hard\Facultate AC\An 3\An 3 Sem2\TPS\PROIECT\Centric Project\Centric Project Echipa Nr. 1\Testinggg\Testinggg\bin\Debug\Testinggg.pdb
+D:\Date hard\Facultate AC\An 3\An 3 Sem2\TPS\PROIECT\Centric Project\Centric Project Echipa Nr. 1\Testinggg\Testinggg\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Date hard\Facultate AC\An 3\An 3 Sem2\TPS\PROIECT\Centric Project\Centric Project Echipa Nr. 1\Testinggg\Testinggg\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Date hard\Facultate AC\An 3\An 3 Sem2\TPS\PROIECT\Centric Project\Centric Project Echipa Nr. 1\Testinggg\Testinggg\bin\Debug\WebDriver.dll
+D:\Date hard\Facultate AC\An 3\An 3 Sem2\TPS\PROIECT\Centric Project\Centric Project Echipa Nr. 1\Testinggg\Testinggg\bin\Debug\WebDriver.Support.dll
+D:\Date hard\Facultate AC\An 3\An 3 Sem2\TPS\PROIECT\Centric Project\Centric Project Echipa Nr. 1\Testinggg\Testinggg\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Date hard\Facultate AC\An 3\An 3 Sem2\TPS\PROIECT\Centric Project\Centric Project Echipa Nr. 1\Testinggg\Testinggg\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Date hard\Facultate AC\An 3\An 3 Sem2\TPS\PROIECT\Centric Project\Centric Project Echipa Nr. 1\Testinggg\Testinggg\obj\Debug\Testinggg.csproj.AssemblyReference.cache
+D:\Date hard\Facultate AC\An 3\An 3 Sem2\TPS\PROIECT\Centric Project\Centric Project Echipa Nr. 1\Testinggg\Testinggg\obj\Debug\Testinggg.csproj.CoreCompileInputs.cache
+D:\Date hard\Facultate AC\An 3\An 3 Sem2\TPS\PROIECT\Centric Project\Centric Project Echipa Nr. 1\Testinggg\Testinggg\obj\Debug\Testinggg.csproj.CopyComplete
+D:\Date hard\Facultate AC\An 3\An 3 Sem2\TPS\PROIECT\Centric Project\Centric Project Echipa Nr. 1\Testinggg\Testinggg\obj\Debug\Testinggg.dll
+D:\Date hard\Facultate AC\An 3\An 3 Sem2\TPS\PROIECT\Centric Project\Centric Project Echipa Nr. 1\Testinggg\Testinggg\obj\Debug\Testinggg.pdb
